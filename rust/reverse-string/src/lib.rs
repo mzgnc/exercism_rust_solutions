@@ -4,6 +4,7 @@
 
 //
 // cargo test --features grapheme
+// cargo test -- --ignored
 // exercism submit absolutePath/lib.rs
 
 use unicode_segmentation::UnicodeSegmentation;
