@@ -73,7 +73,7 @@ fn grapheme_cluster_with_pre_combined_form() {
 }
 
 #[test]
-#[ignore]
+// #[ignore]
 #[cfg(feature = "grapheme")]
 fn grapheme_clusters() {
     let input = "ผู้เขียนโปรแกรม";
